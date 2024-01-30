@@ -1,0 +1,26 @@
+.header {
+    max-width: 1191px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 9px;
+    
+}
+
+.buttons {
+    width: 217px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 15px;
+}
+
+.h1 {
+    color: #17171B;
+    font-family: "SF Pro Display";
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 900;
+    margin: 0;
+    font-family: 'Karla', sans-serif;
+}

@@ -1,0 +1,33 @@
+.section {
+    max-width: 1178px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 48px;
+}
+
+.h2 {
+    color: #000;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 4px;
+    margin: 0;
+    margin-bottom: 64px;
+    max-width: 516px;
+}
+
+.span {
+    font-weight: 700;
+}
+
+.p {
+    color: #000;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    margin: 0;
+    margin-bottom: 64px;
+    max-width: 515px;
+}
